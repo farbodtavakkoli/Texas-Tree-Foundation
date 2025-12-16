@@ -24,15 +24,28 @@ output:
 
 # **Introduction**
 
-This GitHub website is designed for Texas Tree Foundation. The main purpose of this website is to provide the data dictionary and a summary of the analysis.
+This website presents a collection of data-driven environmental and community analyses developed in collaboration with **Texas Trees Foundation** to support urban forestry, climate resilience, and public health initiatives across North Texas.
+
+Texas Trees Foundation has a long-standing mission to create healthier communities through strategic tree planting, canopy expansion, and evidence-based environmental planning. The analyses presented here examine how trees, shade, and environmental conditions interact with temperature, air quality, and community-level outcomes.
+
+Using longitudinal data, environmental sensors, and spatial analysis, this site provides accessible insights that support research, program evaluation, and data-informed decision-making for practitioners, policymakers, and community partners.
 
 
-# **Tabs**
 
-* SWMD: This tab provides information on analysis for SWMD projects
-* Cool Schools: This tab provides information on analysis for Cool Schools projects
-* Urban Forestry: This tab provides information on analysis for Urban Forestry projects
-* Data Dictionary: This tab provides information on variables in each database related to Pegasus parking 
+# **Project Areas**
+
+* **SWMD (Southwestern Medical District)**  
+  Environmental sensor-based analyses examining microclimate conditions, including temperature, wind, and shading effects across urban spaces.
+
+* **Cool Schools**  
+  Evaluations of heat mitigation and environmental conditions around school campuses to support safer, healthier learning environments.
+
+* **Urban Forestry**  
+  Analyses focused on tree canopy, urban forest conditions, and the role of trees in environmental and community outcomes.
+
+* **Data Dictionary**  
+  Detailed documentation of variables, sensors, and datasets used across analyses to support transparency and reproducibility.
+
 
 
 </div>
